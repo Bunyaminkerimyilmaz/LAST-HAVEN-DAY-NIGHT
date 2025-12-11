@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 8fd7623c661e67f4894c1041690aeaba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5840240625361924935
+    second: uzak1_0
+  - first:
+      213: 7335981957036794181
+    second: uzak1_1
+  - first:
+      213: -3242413284014315681
+    second: uzak1_2
+  - first:
+      213: -7229488919956872498
+    second: uzak1_3
+  - first:
+      213: -8620895500678477303
+    second: uzak1_4
+  - first:
+      213: 4813537809731997765
+    second: uzak1_5
+  - first:
+      213: 643950832561990726
+    second: uzak1_6
+  - first:
+      213: -6347832662291064986
+    second: uzak1_7
+  - first:
+      213: -2087435747917326079
+    second: uzak1_8
+  - first:
+      213: 3282392874512617941
+    second: uzak1_9
+  - first:
+      213: 8061215085355234610
+    second: uzak1_10
+  - first:
+      213: -2448605275155052850
+    second: uzak1_11
+  - first:
+      213: -822806405772463706
+    second: uzak1_12
+  - first:
+      213: -7730797560756600030
+    second: uzak1_13
+  - first:
+      213: 4693296393268623327
+    second: uzak1_14
+  - first:
+      213: 7763661706583447642
+    second: uzak1_15
+  - first:
+      213: 4659656259319361799
+    second: uzak1_16
+  - first:
+      213: 1574773210057522322
+    second: uzak1_17
+  - first:
+      213: -2425367451124636921
+    second: uzak1_18
+  - first:
+      213: 4945668796136770024
+    second: uzak1_19
+  - first:
+      213: -1047903051246365323
+    second: uzak1_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: uzak1_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1198
+        width: 440
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743b085e7e3bc0150800000000000000
+      internalID: 5840240625361924935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzak1_1
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1198
+        width: 440
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5416ad3e8b4aec560800000000000000
+      internalID: 7335981957036794181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzak1_2
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1197
+        width: 438
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57a1571c42a003d0800000000000000
+      internalID: -3242413284014315681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzak1_3
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1197
+        width: 439
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2295a7122bbab90800000000000000
+      internalID: -7229488919956872498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzak1_4
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 1197
+        width: 439
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90acb44b73d6c5880800000000000000
+      internalID: -8620895500678477303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzak1_5
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 874
+        width: 439
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540dcfd722f1dc240800000000000000
+      internalID: 4813537809731997765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzak1_6
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 874
+        width: 439
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64caca3ded5cfe800800000000000000
+      internalID: 643950832561990726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzak1_7
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 874
+        width: 437
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667d48e63d7f7e7a0800000000000000
+      internalID: -6347832662291064986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzak1_8
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 874
+        width: 438
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1099fe93f30f703e0800000000000000
+      internalID: -2087435747917326079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzak1_9
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 874
+        width: 438
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d11992bde66d8d20800000000000000
+      internalID: 3282392874512617941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzak1_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 495
+        width: 380
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2357e94f8603fdf60800000000000000
+      internalID: 8061215085355234610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzak1_11
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 495
+        width: 379
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec64c3bb97ec40ed0800000000000000
+      internalID: -2448605275155052850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzak1_12
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 486
+        width: 379
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a13401feedc494f0800000000000000
+      internalID: -822806405772463706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzak1_13
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 485
+        width: 379
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22385a8f390b6b490800000000000000
+      internalID: -7730797560756600030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzak1_14
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 485
+        width: 379
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7f56a1430f12140800000000000000
+      internalID: 4693296393268623327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzak1_15
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 485
+        width: 379
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58953140311ebb60800000000000000
+      internalID: 7763661706583447642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzak1_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 104
+        width: 376
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701f7201eac6aa040800000000000000
+      internalID: 4659656259319361799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzak1_17
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 104
+        width: 376
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cb74b14e7bad510800000000000000
+      internalID: 1574773210057522322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzak1_18
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 104
+        width: 375
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703ebe1472d575ed0800000000000000
+      internalID: -2425367451124636921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzak1_19
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 104
+        width: 377
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9477a119b82a440800000000000000
+      internalID: 4945668796136770024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzak1_20
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 112
+        width: 376
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57599671ab91571f0800000000000000
+      internalID: -1047903051246365323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      uzak1_0: 5840240625361924935
+      uzak1_1: 7335981957036794181
+      uzak1_10: 8061215085355234610
+      uzak1_11: -2448605275155052850
+      uzak1_12: -822806405772463706
+      uzak1_13: -7730797560756600030
+      uzak1_14: 4693296393268623327
+      uzak1_15: 7763661706583447642
+      uzak1_16: 4659656259319361799
+      uzak1_17: 1574773210057522322
+      uzak1_18: -2425367451124636921
+      uzak1_19: 4945668796136770024
+      uzak1_2: -3242413284014315681
+      uzak1_20: -1047903051246365323
+      uzak1_3: -7229488919956872498
+      uzak1_4: -8620895500678477303
+      uzak1_5: 4813537809731997765
+      uzak1_6: 643950832561990726
+      uzak1_7: -6347832662291064986
+      uzak1_8: -2087435747917326079
+      uzak1_9: 3282392874512617941
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

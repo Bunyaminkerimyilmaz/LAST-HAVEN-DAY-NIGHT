@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: e6fb84a20dfa16642a34f49f02040d7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1043716585941932078
+    second: "yak\u0131n1_0"
+  - first:
+      213: -7307113230510319012
+    second: "yak\u0131n1_1"
+  - first:
+      213: -1564912293434309659
+    second: "yak\u0131n1_2"
+  - first:
+      213: -6944155312652016319
+    second: "yak\u0131n1_3"
+  - first:
+      213: -2150787293451260828
+    second: "yak\u0131n1_4"
+  - first:
+      213: -1786414254237014048
+    second: "yak\u0131n1_5"
+  - first:
+      213: 5550051847599252311
+    second: "yak\u0131n1_6"
+  - first:
+      213: 2517297704072178348
+    second: "yak\u0131n1_7"
+  - first:
+      213: -3330187856138484327
+    second: "yak\u0131n1_8"
+  - first:
+      213: 7777766005381554364
+    second: "yak\u0131n1_9"
+  - first:
+      213: -1686146175885793149
+    second: "yak\u0131n1_10"
+  - first:
+      213: 1573111746888282419
+    second: "yak\u0131n1_11"
+  - first:
+      213: -8775517042262574637
+    second: "yak\u0131n1_12"
+  - first:
+      213: 7949409433854410114
+    second: "yak\u0131n1_13"
+  - first:
+      213: 8264845741672485850
+    second: "yak\u0131n1_14"
+  - first:
+      213: 4382046924117908127
+    second: "yak\u0131n1_15"
+  - first:
+      213: -4553685508379916188
+    second: "yak\u0131n1_16"
+  - first:
+      213: 7076595089739380883
+    second: "yak\u0131n1_17"
+  - first:
+      213: 4187559944967224459
+    second: "yak\u0131n1_18"
+  - first:
+      213: -6222630782704798579
+    second: "yak\u0131n1_19"
+  - first:
+      213: -1236417248853605346
+    second: "yak\u0131n1_20"
+  - first:
+      213: -5485523053943176902
+    second: "yak\u0131n1_21"
+  - first:
+      213: 2879800653885675008
+    second: "yak\u0131n1_22"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "yak\u0131n1_0"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1065
+        width: 314
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28904f74b60c7e00800000000000000
+      internalID: 1043716585941932078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "yak\u0131n1_1"
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1065
+        width: 287
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a10e94b3be79a90800000000000000
+      internalID: -7307113230510319012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "yak\u0131n1_2"
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1065
+        width: 283
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3c4357f80584ae0800000000000000
+      internalID: -1564912293434309659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "yak\u0131n1_3"
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1065
+        width: 304
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1452c3ce88761af90800000000000000
+      internalID: -6944155312652016319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "yak\u0131n1_4"
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1065
+        width: 294
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ce96a1a5ed622e0800000000000000
+      internalID: -2150787293451260828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "yak\u0131n1_5"
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 1065
+        width: 279
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7228a53b16537e0800000000000000
+      internalID: -1786414254237014048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "yak\u0131n1_6"
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 1065
+        width: 288
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753672dffbeb50d40800000000000000
+      internalID: 5550051847599252311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "yak\u0131n1_7"
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 1065
+        width: 313
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caae025bcec3fe220800000000000000
+      internalID: 2517297704072178348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "yak\u0131n1_8"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 554
+        width: 405
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995cb87f9cbc8c1d0800000000000000
+      internalID: -3330187856138484327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "yak\u0131n1_9"
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 554
+        width: 340
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb060e839fc20fb60800000000000000
+      internalID: 7777766005381554364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "yak\u0131n1_10"
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 554
+        width: 431
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388a1f29cfa9998e0800000000000000
+      internalID: -1686146175885793149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "yak\u0131n1_11"
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 554
+        width: 423
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33135419cc0d4d510800000000000000
+      internalID: 1573111746888282419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "yak\u0131n1_12"
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 765
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d97d87aeb9173680800000000000000
+      internalID: -8775517042262574637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "yak\u0131n1_13"
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 556
+        width: 436
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28df70723c9f15e60800000000000000
+      internalID: 7949409433854410114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "yak\u0131n1_14"
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 556
+        width: 511
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3d9cbb961a2b270800000000000000
+      internalID: 8264845741672485850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "yak\u0131n1_15"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 84
+        width: 370
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a142dd57820dc30800000000000000
+      internalID: 4382046924117908127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "yak\u0131n1_16"
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 85
+        width: 411
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468cb26182f0ec0c0800000000000000
+      internalID: -4553685508379916188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "yak\u0131n1_17"
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 86
+        width: 426
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398703f9dbd153260800000000000000
+      internalID: 7076595089739380883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "yak\u0131n1_18"
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 212
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cfc6355933d1a30800000000000000
+      internalID: 4187559944967224459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "yak\u0131n1_19"
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 85
+        width: 393
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d843874a546c4a9a0800000000000000
+      internalID: -6222630782704798579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "yak\u0131n1_20"
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 86
+        width: 342
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e144aef101d57dee0800000000000000
+      internalID: -1236417248853605346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "yak\u0131n1_21"
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 161
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31408298d18fd3b0800000000000000
+      internalID: -5485523053943176902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "yak\u0131n1_22"
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 137
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0061bc6df6b17f720800000000000000
+      internalID: 2879800653885675008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "yak\u0131n1_0": 1043716585941932078
+      "yak\u0131n1_1": -7307113230510319012
+      "yak\u0131n1_10": -1686146175885793149
+      "yak\u0131n1_11": 1573111746888282419
+      "yak\u0131n1_12": -8775517042262574637
+      "yak\u0131n1_13": 7949409433854410114
+      "yak\u0131n1_14": 8264845741672485850
+      "yak\u0131n1_15": 4382046924117908127
+      "yak\u0131n1_16": -4553685508379916188
+      "yak\u0131n1_17": 7076595089739380883
+      "yak\u0131n1_18": 4187559944967224459
+      "yak\u0131n1_19": -6222630782704798579
+      "yak\u0131n1_2": -1564912293434309659
+      "yak\u0131n1_20": -1236417248853605346
+      "yak\u0131n1_21": -5485523053943176902
+      "yak\u0131n1_22": 2879800653885675008
+      "yak\u0131n1_3": -6944155312652016319
+      "yak\u0131n1_4": -2150787293451260828
+      "yak\u0131n1_5": -1786414254237014048
+      "yak\u0131n1_6": 5550051847599252311
+      "yak\u0131n1_7": 2517297704072178348
+      "yak\u0131n1_8": -3330187856138484327
+      "yak\u0131n1_9": 7777766005381554364
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
