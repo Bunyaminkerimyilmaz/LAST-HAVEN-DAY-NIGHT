@@ -26,12 +26,12 @@ public class PlayerMove : MonoBehaviour
         if (movement.x > 0||movement.y > 0)
         {
             // Sağa giderken normal duruş
-            transform.localScale = new Vector3(1, 1, 1);
+            transform.localScale = new Vector3(0.4f, 0.4f, 0.4f);
         }
         else if (movement.x < 0 || movement.y < 0)
         {
             // Sola giderken ters çevir
-            transform.localScale = new Vector3(-1, 1, 1);
+            transform.localScale = new Vector3(-0.4f, 0.4f, 0.4f);
         }
     }
 
